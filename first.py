@@ -12,7 +12,6 @@ def sudy_nebo_lichy (cislo):
 if __name__ == "__main__":
     cislo = input("Zadej cislo: ")
     cislo = int(cislo)
-    print(f"Zadane cislo je: {cislo}")
     sudy_nebo_lichy(cislo)
 
 sudy_nebo_lichy(5)
