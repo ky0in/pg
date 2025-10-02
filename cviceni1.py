@@ -5,8 +5,8 @@ def cislo_mensi_nez_3(hodnota):
           print(f'Hodnota {hodnota} je vetsi nez 3')
      elif hodnota < 3:
           print(f'Hodnota {hodnota} je mensi nez 3')
-     else
-          print(f'Hodnota {hodnota} je rovna nez 3')
+     else:
+          print(f'Hodnota {hodnota} je rovna 3')
     
 
 if __name__ == "__main__":
