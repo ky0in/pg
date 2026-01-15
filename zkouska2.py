@@ -17,7 +17,7 @@ def spocitej_statistiku(text):
             pocet_radku += 1
 
     slova = text.split()
-    for _ in slova:
+    for x in slova:
         pocet_slov += 1
     
 
